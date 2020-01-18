@@ -57,7 +57,7 @@
             },            
             "osType": "windows",
             "adminUsername": "testuser",
-            "adminPassword": "",
+            "adminPassword": "t0&=R6m!0aVa!6u0LTr!",
             "nics": [
               {
                 "subnetName": "mgmt",
@@ -75,7 +75,7 @@
             "namePrefix": "ad",
             "size": "Standard_DS3_v2",
             "adminUsername": "testadminuser",
-            "adminPassword": "",
+            "adminPassword": "t0&=R6m!0aVa!6u0LTr!",
             "virtualNetwork": {
               "name": "onpremise-vnet"
             },
@@ -134,11 +134,11 @@
                       "ReplicationFrequency": 10,
                       "AdminCreds": {
                         "UserName": "testadminuser",
-                        "Password": ""
+                        "Password": "t0&=R6m!0aVa!6u0LTr!"
                       },
                       "SafeModeAdminCreds": {
                         "UserName": "testsafeadminuser",
-                        "Password": ""
+                        "Password": "t0&=R6m!0aVa!6u0LTr!"
                       }
                     }
                   }
@@ -175,11 +175,11 @@
                       "PrimaryDcIpAddress": "192.168.0.4",
                       "AdminCreds": {
                         "UserName": "testadminuser",
-                        "Password": ""
+                        "Password": "t0&=R6m!0aVa!6u0LTr!"
                       },
                       "SafeModeAdminCreds": {
                         "UserName": "testsafeadminuser",
-                        "Password": ""
+                        "Password": "t0&=R6m!0aVa!6u0LTr!"
                       }
                     }
                   }
